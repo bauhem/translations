@@ -570,7 +570,7 @@
   "fieldError.VALIDATION_JSON": "Le champ doit être du JSON valide",
   "fieldError.VALIDATION_LENGTH": "{ valorizedKeys, select, min { Le champ doit avoir au moins {min} caractères } max { Le champ ne peut pas contenir plus de {max} caractères } max_min { Le champ doit contenir entre {min} et {max} caractères } eq { Le champ doit avoir {eq} caractères } }",
   "fieldError.VALIDATION_MUSTACHE": "Le champ doit être un template valid Mustache",
-  "fieldError.VALIDATION_NUMBER_RANGE": "{ valorizedKeys, select, min { La valeur du champ ne peut pas être supérieure ou égale à {min} } max { La valeur du champ ne peut pas être inférieure ou égale à {max} } max_min { La valeur du champ doit être comprise entre {min} et {max} } }",
+  "fieldError.VALIDATION_NUMBER_RANGE": "{ valorizedKeys, select, min { La valeur du champ ne peut pas être inférieure ou égale à {min} } max { La valeur du champ ne peut pas être supérieure ou égale à {max} } max_min { La valeur du champ doit être comprise entre {min} et {max} } }",
   "fieldError.VALIDATION_PLURAL": "L'identifiant d'API doit être spécifié à sa forme singulière (et non plurielle), exemple : article, non articles.",
   "fieldError.VALIDATION_REQUIRED": "Ce champ est obligatoire",
   "fieldError.VALIDATION_REQUIRED_ALT_TITLE": "{valorizedKeys, select,\n      alt { L'élément doit inclure un texte alternatif }\n      title { L'élément doit inclure un titre }\n      alt_title { L'élément doit inclure un texte alternatif et un titre}\n    }",
